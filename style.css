@@ -1,8 +1,13 @@
 body {
-  font-family: "Avenir Next";
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
   color: grey;
   background-image: url("/Users/kyz/Downloads/Photo by Nika Akin from Pexels.jpg")
   background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Prata', serif;
 }
 
 a {
