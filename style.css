@@ -13,7 +13,7 @@ body {
 
 li {
   font-size: 40;
-  list-style: none;
+  list-style-type: none;
   display: inline-block
   float:left;
 }
