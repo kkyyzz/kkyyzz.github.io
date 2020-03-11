@@ -1,13 +1,18 @@
 body {
-  font-family: 'Prata', serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
   color: grey;
-  background-image: url("/Users/kyz/Downloads/Photo by Nika Akin from Pexels.jpg")
+  background-image: url("Photo by Nika Akin from Pexels.jpg")
   background-size: cover;
 }
 
+a {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
 h1, h2, h3, h4, h5, h6 {
- font-family: 'Lato', sans-serif;
- font-weight: 300;
+ font-family: 'Prata', serif;
 }
 
 a {
