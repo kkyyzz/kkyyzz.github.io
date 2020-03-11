@@ -1,0 +1,11 @@
+body {
+  font-family: "Avenir Next";
+  color: grey;
+  background-image: url("/Users/kyz/Downloads/Photo by Nika Akin from Pexels.jpg")
+  background-size: cover;
+}
+
+a {
+  display: inline-block;
+  opacity: 0.7;
+}
