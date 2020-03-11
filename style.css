@@ -31,21 +31,23 @@ span {
   text-decoration: none;
 }
 
-ul {
+.main-nav ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
   border: 1px solid #2c2f33;
   background-color: #23272a;
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  top: 0px;
-  padding: 0px;
-  margin: 15px;
 }
 
 li {
     list-style-type: none;
 }
 
-li a {
+/*li a {
   font-size: 15;
   display: inline-block
   float:left;
@@ -53,7 +55,8 @@ li a {
   padding: 0;
   color: #ffffff;
   text-decoration: none;
-}
+}*/  border: 1px solid #2c2f33;
+  background-color: #23272a;
 
 li a:hover {
   background-color: #99aab5;
