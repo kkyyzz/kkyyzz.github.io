@@ -17,6 +17,7 @@ body {
   padding: 0;
   display: inline-block;
   opacity: 0.7;
+  text-decoration: none;
 }
 
 ul {
@@ -29,9 +30,12 @@ ul {
   margin: 0;
 }
 
+li {
+    list-style-type: none;
+}
+
 li a {
   font-size: 15;
-  list-style-type: none;
   display: inline-block
   float:left;
   margin: 0;
