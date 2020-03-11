@@ -57,6 +57,21 @@ h1, h2 {
  font-family: 'Chivo', serif;
 }
 
+.category {
+  padding: 1.875em;
+}
+
+.section-separator1 {
+  background-image: url("https://www.pexels.com/photo/black-and-white-browsing-business-coffee-265152/");
+}
+
+.section-separator2 {
+  background-image: url("https://www.pexels.com/photo/white-paper-51159/");
+}
+
+.section-separator3 {
+  background-image: url("#");
+}
 .body {
   background: url("../img/PhotobyNikaAkinfromPexels.jpg")
 }
