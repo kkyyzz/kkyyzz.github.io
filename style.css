@@ -2,7 +2,7 @@ body {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: grey;
-  background-image: url("PhotobyNikaAkinfromPexels.jpg")
+  background-image: url("../PhotobyNikaAkinfromPexels.jpg")
   background-size: cover;
 }
 
