@@ -57,6 +57,5 @@ a {
 }
 
 .copy-container {
-  background-image: url("../PhotobyNikaAkinfromPexels.jpg")
-  background-size: cover;
+  background: url("../img/PhotobyNikaAkinfromPexels.jpg")
 }
