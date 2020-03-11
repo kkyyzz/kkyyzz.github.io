@@ -56,6 +56,10 @@ a {
   opacity: 0.7;
 }
 
-.main {
+.body {
   background: url("../img/PhotobyNikaAkinfromPexels.jpg")
+}
+
+.main {
+  text-align:justify;
 }
