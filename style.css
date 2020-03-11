@@ -10,6 +10,14 @@ body {
   padding: 20px 40px;
 }
 
+.myname {
+  float:left;
+}
+
+.top {
+  float: left;
+}
+
 span {
   margin: 20px;
 }
@@ -65,13 +73,13 @@ h1, h2 {
 }
 
 .section-separator1 {
-  background: url("https://www.pexels.com/photo/gray-and-black-marble-slab-1451474/");
+  background: url("../PhotobyDariaShevtsovafromPexels.jpg");
 }
 
 .section-separator2 {
-  background: url("https://www.pexels.com/photo/black-and-white-close-up-colors-design-1884303/");
+  background: url("../PhotobyKiraSchwarzfromPexels.jpg");
 }
 
 .section-separator3 {
-  background: url("https://www.pexels.com/photo/background-close-up-cold-freeze-1451484/");
+  background: url("../PhotobyKiraSchwarzfromPexels2.jpg");
 }
