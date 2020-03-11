@@ -14,11 +14,11 @@ body {
 }
 
 li {
-  font-size: 25;
+  font-size: 15;
   list-style-type: none;
   display: inline-block
   float:left;
-  padding: 33px 20px;
+  padding: 20px 15px;
 }
 
 a, h3, h4, h5, h6 {
