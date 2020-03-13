@@ -40,8 +40,22 @@ main > nav {
 	box-sizing: border-box;
 }
 
-html, body {
-	background: #fff;
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../PhotobyDariaShevtsovafromPexels.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
@@ -79,16 +93,16 @@ main {
   text-decoration: none;
 }
 
-.contact a:link,
-.contact a:visited
-.contact a:focus {
+.contact btm a:link,
+.contact btm a:visited
+.contact btm a:focus {
   color: #666;
 }
 
-.contact a:hover {
+.contact btm a:hover {
   color: #ccc;
 }
 
-.contact a:active {
+.contact btm a:active {
   color: #666;
 }
