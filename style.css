@@ -78,3 +78,17 @@ main {
   opacity: 0.7;
   text-decoration: none;
 }
+
+.contact a:link,
+.contact a:visited
+.contact a:focus {
+  color: #666;
+}
+
+.contact a:hover {
+  color: #ccc;
+}
+
+.contact a:active {
+  color: #666;
+}
